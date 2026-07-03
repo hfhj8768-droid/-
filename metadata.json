@@ -1,0 +1,6 @@
+{
+  "name": "Password Vault",
+  "description": "A secure password manager to safely store and manage your credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
